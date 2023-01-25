@@ -1,5 +1,5 @@
 {
-  "name": "brokerexchange/elasticqueue",
+  "name": "hamdallah90/elasticqueue",
   "description": "Laravel Queue Driver for Elasticsearch",
   "keywords": [
     "elasticsearch",
@@ -10,13 +10,13 @@
   "homepage": "http://brokerexchange.github.io/ElasticQueue/",
   "authors": [
     {
-      "name": "Brian Mix",
-      "email": "brian@brokerbin.com"
+      "name": "Hamallah Jodah",
+      "email": "hamdallahjodah@gmail.com"
     }
   ],
   "minimum-stability": "stable",
   "require": {
-    "elasticsearch/elasticsearch": "^2.0.0|^5.0.0"
+    "elasticsearch/elasticsearch": "^7"
   },
   "autoload": {
     "psr-4": {
